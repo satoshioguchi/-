@@ -22,6 +22,6 @@
 
 /.env
 
-/.hogehoge.html.erb
+/hogehoge.html.erb
 
-/.foobar
+/foobar
